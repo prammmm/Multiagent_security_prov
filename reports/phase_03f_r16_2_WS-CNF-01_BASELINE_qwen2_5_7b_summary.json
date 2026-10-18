@@ -1,0 +1,13 @@
+{
+  "phase": "03F",
+  "candidate": "R16.2",
+  "status": "REFUSED_PREFLIGHT_STAGE1",
+  "refusal_reason": "Available host RAM (6.3873 GiB) fell below Stage 1 preflight threshold (7.0 GiB) before setup.",
+  "config_id": "WS-CNF-01",
+  "condition": "BASELINE",
+  "model_name": "qwen2.5:7b-instruct",
+  "stage1_preflight_ram_gb": 6.387317657470703,
+  "threshold_gb": 7.0,
+  "trials_dispatched": 0,
+  "timestamp_utc": "2026-10-17T11:38:12.989652+00:00"
+}
